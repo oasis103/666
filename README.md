@@ -8,3 +8,4 @@
 
 ##环境变量
 >通过环境变量可以找到文件所在地址
+![联想截图_20251019101334](https://github.com/user-attachments/assets/d1f252dd-2dd1-412c-9b11-95df8df8d937)
